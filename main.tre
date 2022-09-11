@@ -1,0 +1,18 @@
+ÀÄmain
+   ÃÄMAIN  0/828  Ram=0
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄ@SDTOF  0/88  Ram=5
+   ³  ÃÄ@MULFF  0/244  Ram=11
+   ³  ÃÄ@FTOSD  0/64  Ram=5
+   ³  ÃÄ@PSTRINGCN_19200_31766_31767  0/32  Ram=3
+   ³  ÃÄ@PRINTF_L32D_19200_31766_31767  0/250  Ram=12
+   ³  ³  ÃÄ@DIV3232  0/142  Ram=13
+   ³  ³  ÀÄ@DIV3232  0/142  Ram=13
+   ³  ÀÄ@PSTRINGCN_19200_31766_31767  0/32  Ram=3
+   ÃÄRDA_isr  0/124  Ram=3
+   ³  ÀÄatol  0/468  Ram=11
+   ³     ÀÄ@MULS1616  0/82  Ram=6
+   ÃÄTIMER0_isr  0/56  Ram=0
+   ÃÄEXT_isr  0/24  Ram=0
+   ÃÄEXT1_isr  0/14  Ram=0
+   ÀÄEXT2_isr  0/14  Ram=0

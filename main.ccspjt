@@ -1,0 +1,91 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.083
+Compiler=PCH
+CCSVersion=5.083
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\GABO\Desktop\p\asd\kkk\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=4
+D1=15-09-2020
+D1_L=14
+D1_L1=[1713]Project Opened.
+D1_L2=[1765]Started Editing.
+D1_L3=[2792]Stopped Editing.
+TotalEdit=58
+TotalDebug=0
+D1_E=26
+D1_D=0
+D1_L4=[2792]Project Closed.
+D1_L5=[2800]Project Opened.
+D1_L6=[2814]Project Closed.
+D1_L7=[3484]Project Opened.
+D1_L8=[3673]Started Editing.
+D1_L9=[4229]Stopped Editing.
+D1_L10=[5352]Started Editing.
+D1_L11=[5654]Stopped Editing.
+D1_L12=[6209]Started Editing.
+D1_L13=[6409]Stopped Editing.
+D1_L14=[6409]Project Closed.
+D2=17-09-2020
+D2_L=20
+D2_L1=[47199]Project Opened.
+D2_L2=[47228]Started Editing.
+D2_L3=[47800]Stopped Editing.
+D2_L4=[50055]Started Editing.
+D2_L5=[50356]Stopped Editing.
+D2_E=31
+D2_D=0
+D2_L6=[51835]Project Closed.
+D2_L7=[63455]Project Opened.
+D2_L8=[63567]Started Editing.
+D2_L9=[64186]Stopped Editing.
+D2_L10=[64217]Started Editing.
+D2_L11=[65022]Stopped Editing.
+D2_L12=[65431]Started Editing.
+D2_L13=[66109]Stopped Editing.
+D2_L14=[66922]Project Closed.
+D2_L15=[67018]Project Opened.
+D2_L16=[67029]Project Closed.
+D2_L17=[71756]Project Opened.
+D2_L18=[71786]Started Editing.
+D2_L19=[72031]Stopped Editing.
+D2_L20=[72031]Project Closed.
+D3=19-09-2020
+D3_L=2
+D3_L1=[83043]Project Opened.
+D3_L2=[83152]Project Closed.
+D4=21-09-2020
+D4_L=4
+D4_L1=[51639]Project Opened.
+D4_L2=[52362]Started Editing.
+D4_L3=[52663]Stopped Editing.
+D4_E=1
+D4_D=0
+D4_L4=[53081]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=61
+Count=1
+2=E:\TrabajosU\POTENCIA\LABORATORIO\GUÍAS DE LABORATORIO ELECTRÓNICA DE POTENCIA\LAB3\SIMULACIONES\SOLO_DISPAROS_PIC\SOLO_DISPAROS_PIC_45\main.h
+t2=1
+[main.c]
+Type=4
+
+[defines]
+buildcount=48
+[Units]
+Count=1
+1=main (main)

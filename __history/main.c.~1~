@@ -1,0 +1,54 @@
+#include <main.h>
+
+#INT_RTCC
+void  RTCC_isr(void) 
+{
+
+}
+
+#INT_EXT
+void  EXT_isr(void) 
+{
+
+}
+
+#INT_EXT1
+void  EXT1_isr(void) 
+{
+
+}
+
+#INT_EXT2
+void  EXT2_isr(void) 
+{
+
+}
+
+#INT_RDA
+void  RDA_isr(void) 
+{
+
+}
+
+void main()
+{
+	setup_adc_ports(AN0_TO_AN6);
+	setup_adc(ADC_CLOCK_INTERNAL|ADC_TAD_MUL_0);
+	setup_timer_0(RTCC_INTERNAL|RTCC_DIV_1);		//13,1 ms overflow
+
+
+	enable_interrupts(INT_RTCC);
+	enable_interrupts(INT_EXT);
+	enable_interrupts(INT_EXT1);
+	enable_interrupts(INT_EXT2);
+	enable_interrupts(INT_RDA);
+	enable_interrupts(GLOBAL);
+
+	while(TRUE)
+	{
+
+
+		//TODO: User Code
+	}
+
+}
